@@ -87,7 +87,7 @@ const HeroSection = ({ onOpenContact }: HeroSectionProps) => {
           <div className="order-1 lg:order-2 relative">
             <div className="hero-image relative aspect-[4/3] lg:aspect-[3/4] rounded-2xl lg:rounded-3xl overflow-hidden">
               <img
-                src="/codemechanix/hero-portrait.jpg"
+                src="/hero-portrait.jpg"
                 alt="Professional automation solutions"
                 className="w-full h-full object-cover"
               />

@@ -114,7 +114,7 @@ const ContactSection = ({ onOpenContact }: ContactSectionProps) => {
                     <ArrowRight className="w-4 h-4 ml-2" />
                   </button>
                   <a
-                    href="https://wa.me/919999999999"
+                    href="https://wa.me/919579893850"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="btn-primary"

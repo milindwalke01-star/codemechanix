@@ -191,7 +191,7 @@ const ContactSection = ({ onOpenContact }: ContactSectionProps) => {
               Custom automation & software solutions for small businesses
             </p>
             <p className="text-[#A9B3C7]/50 text-xs">
-              © 2026 CodeMechanix. Built for small businesses.
+              © 2026 CodeMechanix.in Built for small businesses.
             </p>
           </div>
         </div>

@@ -161,7 +161,7 @@ const ContactSection = ({ onOpenContact }: ContactSectionProps) => {
                 href="mailto:milind.walke@codemechanix.in"
                 className="text-[#F5F7FF] text-sm hover:text-[#4F46E5] transition-colors"
               >
-                milind.walke@codemechanix.in
+                Support@codemechanix.in
               </a>
             </div>
 

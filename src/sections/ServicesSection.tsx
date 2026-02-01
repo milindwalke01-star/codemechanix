@@ -91,7 +91,7 @@ const ServicesSection = (_props: ServicesSectionProps) => {
 
   const services = [
     {
-      image: '/codemechanix/section-time.jpg',
+      image: '/section-time.jpg',
       title: 'Save Time',
       highlight: '10+ hours/week',
       description: 'Map repetitive tasks and replace them with reliable workflows.',
@@ -103,7 +103,7 @@ const ServicesSection = (_props: ServicesSectionProps) => {
       ],
     },
     {
-      image: '/codemechanix/section-errors.jpg',
+      image: '/section-errors.jpg',
       title: 'Reduce Errors',
       highlight: '99% accuracy',
       description: 'Built-in checks and validations at every step.',
@@ -111,7 +111,7 @@ const ServicesSection = (_props: ServicesSectionProps) => {
       features: ['Required fields enforced', 'Cross-sheet validation', 'Auto-alerts on anomalies'],
     },
     {
-      image: '/codemechanix/section-costs.jpg',
+      image: '/section-costs.jpg',
       title: 'Cut Costs',
       highlight: '25-40% savings',
       description: 'Do more without adding headcount. Tools that pay for themselves.',
@@ -119,7 +119,7 @@ const ServicesSection = (_props: ServicesSectionProps) => {
       comparison: { before: 'Manual hours + rework', after: 'Automated flows + alerts' },
     },
     {
-      image: '/codemechanix/section-custom.jpg',
+      image: '/section-custom.jpg',
       title: 'Custom Solutions',
       highlight: 'Starting ₹15,000',
       description: 'Built for your process, not off-the-shelf.',
